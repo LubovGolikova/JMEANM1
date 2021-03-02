@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c8e57bd2-fc64-4bca-9ff0-2a9e6c5221f1" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/my-dream-app/angular.json" beforeDir="false" afterPath="$PROJECT_DIR$/my-dream-app/angular.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-dream-app/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/my-dream-app/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-dream-app/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/my-dream-app/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-dream-app/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/my-dream-app/src/app/app.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-dream-app/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/my-dream-app/src/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-dream-app/src/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/my-dream-app/src/styles.css" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/my-dream-app" />
+  </component>
+  <component name="ProjectId" id="1oytsvnpF7EWN6tIVRcW1ID3rxJ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="ts.external.directory.path" value="$PROJECT_DIR$/my-dream-app/node_modules/typescript/lib" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c8e57bd2-fc64-4bca-9ff0-2a9e6c5221f1" name="Default Changelist" comment="" />
+      <created>1614270867095</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1614270867095</updated>
+      <workItem from="1614270869335" duration="6291000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
